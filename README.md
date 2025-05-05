@@ -20,8 +20,6 @@ The following **optional** features are implemented:
 - ✅ Added a progress bar to each game card showing funding progress percentage
 - ✅ Styled the entire site with a custom modern color palette and layout improvements
 - ✅ Added a scroll-to-section navigation button for better usability
-- ✅ Highlighted overfunded games visually
-- ✅ Responsive layout using flexbox for card wrapping
 
 ## Video Walkthrough
 
