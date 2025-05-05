@@ -24,7 +24,6 @@ The following **optional** features are implemented:
 - ✅ Responsive layout using flexbox for card wrapping
 
 ## Video Walkthrough
-## Video Walkthrough
 
 Here's a walkthrough of implemented features:
 
