@@ -24,12 +24,13 @@ The following **optional** features are implemented:
 - ✅ Responsive layout using flexbox for card wrapping
 
 ## Video Walkthrough
+## Video Walkthrough
 
 Here's a walkthrough of implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+[Loom Video Walkthrough](https://www.loom.com/share/3ea2148c889f43ab9bd0aeb49ded5020?sid=38943a28-e51e-4d32-9b15-fa80731da153)
 
-GIF created with **Loom / LiceCap / ScreenToGif** (replace with actual tool name)
+GIF created with **Loom** 
 
 ## Notes
 
